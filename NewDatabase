@@ -1,1 +1,3 @@
 
+select * from table where startDate between 2013-03-10 and 'datum' and endDate between 'datum'
+and 'datum'
